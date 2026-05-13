@@ -60,7 +60,7 @@ npm start
 
 You should see:
 
-Server running on port 5000
+Server running on port 3000
 
 ---
 
