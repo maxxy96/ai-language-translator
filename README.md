@@ -14,74 +14,9 @@ This project is a simple Full Stack Language Translator application developed as
 The main purpose of this project is to translate text from one language to another in real time using an external translation API.
 
 
----
-## Technologies Used
-
-### Frontend
-
-- React.js
-- Axios
-- CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- CORS
-- Axios
-
-### API Used
-
-- MyMemory Translation API
+http://localhost:5000
 
 ---
-
-## Installation Steps
-
-### Step 1 — Extract Project Folder
-
-Extract the ZIP file:
-
-proper-language-translator.zip
-
----
-
-### Step 2 — Run Backend Server
-
-Open terminal inside:
-
-server
-
-Run:
-
-npm install
-
-npm start
-
-You should see:
-
-Server running on port 3000
-
----
-
-### Step 3 — Run Frontend
-
-Open another terminal inside:
-
-client
-
-Run:
-
-npm install
-
-npm start
-
-Browser will open automatically:
-
-http://localhost:3000
-
----
-
 
 ## Future Improvements
 
